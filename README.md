@@ -1,5 +1,7 @@
 # Rashid Reyaz Khan — Portfolio (AI Platform Engineer)
 
+🔗 **Live:** [iamrashidpathan.github.io/rashid-portfolio-ai-platform](https://iamrashidpathan.github.io/rashid-portfolio-ai-platform/)
+
 A single-file, zero-build personal portfolio centered on who you are and what you've built — not tuned to any one job posting. Theme: **Control Plane** — a calm, editorial "infrastructure you can observe" look, with an animated service-graph hero (nodes with data pulsing along the edges), a warm serif display face, and a single deep-indigo accent. Light-first with a dark toggle.
 
 Everything is in `index.html` — all CSS/JS inline, **no external runtime dependency** (only Google Fonts via `<link>`), vanilla JS only.
