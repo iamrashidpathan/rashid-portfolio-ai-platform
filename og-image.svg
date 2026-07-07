@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FBFAF7"/>
+  <!-- rail -->
+  <rect x="0" y="0" width="46" height="630" fill="#FBFAF7"/>
+  <line x1="46" y1="0" x2="46" y2="630" stroke="#16181D" stroke-opacity="0.1"/>
+  <circle cx="23" cy="70" r="6" fill="#4A5BD6"/>
+  <!-- control-plane graph, right side -->
+  <g stroke="#4A5BD6" stroke-opacity="0.2" stroke-width="1.5" fill="none">
+    <line x1="950" y1="315" x2="1080" y2="200"/><line x1="950" y1="315" x2="1090" y2="430"/>
+    <line x1="950" y1="315" x2="820" y2="180"/><line x1="950" y1="315" x2="800" y2="440"/>
+    <line x1="950" y1="315" x2="1010" y2="120"/><line x1="1080" y1="200" x2="1120" y2="330"/>
+  </g>
+  <g fill="#4A5BD6">
+    <circle cx="950" cy="315" r="9"/><circle cx="1080" cy="200" r="5" opacity="0.7"/>
+    <circle cx="1090" cy="430" r="5" opacity="0.7"/><circle cx="820" cy="180" r="5" opacity="0.7"/>
+    <circle cx="800" cy="440" r="5" opacity="0.7"/><circle cx="1010" cy="120" r="4" opacity="0.6"/>
+    <circle cx="1120" cy="330" r="4" opacity="0.6"/>
+  </g>
+  <circle cx="950" cy="315" r="20" fill="none" stroke="#4A5BD6" stroke-opacity="0.35"/>
+  <!-- text -->
+  <text x="100" y="150" font-family="'JetBrains Mono', monospace" font-size="20" letter-spacing="6" fill="#4A5BD6">SENIOR AI PLATFORM ENGINEER</text>
+  <text x="96" y="300" font-family="Georgia, serif" font-size="88" font-weight="500" fill="#16181D">Rashid Reyaz Khan</text>
+  <text x="100" y="372" font-family="'Inter', sans-serif" font-size="31" fill="#3A3E48">The infrastructure behind production AI — RAG · agents · evals · cloud</text>
+  <text x="100" y="540" font-family="'JetBrains Mono', monospace" font-size="21" letter-spacing="3" fill="#5B6472">HYDERABAD, IN · UTC+5:30</text>
+  <text x="100" y="575" font-family="'JetBrains Mono', monospace" font-size="21" letter-spacing="3" fill="#4A5BD6">TOKYO-BOUND · HSP ELIGIBLE</text>
+</svg>
